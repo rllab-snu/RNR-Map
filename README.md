@@ -8,13 +8,11 @@ Renderable Neural Radiance Map <br> for Visual Navigation‬
   
   
 <p align="center">
-Official Github repository for <b>"Renderable Neural Radiance Map for Visual Navigation‬" (CVPR2023 accepted)</b>.
+Official Github repository for <b>"Renderable Neural Radiance Map for Visual Navigation‬"</b>.
+<br>
+$\color{#58A6FF}{\textsf{Highlighted Paper at CVPR 2023}}$
 <br>
 <br>
 The source code & pretrained models will be uploaded soon.
 
 </p>
-
-
-
-
