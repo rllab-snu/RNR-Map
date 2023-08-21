@@ -16,7 +16,7 @@ $\color{#58A6FF}{\textsf{Highlighted Paper at CVPR 2023}}$
 <br>
   
 
-<img src="./media/overview.gif">
+<img src="https://github.com/rllab-snu/RNR-Map/blob/main/media/overview.gif">
 <br>
 <br>
 The source code & pretrained models will be uploaded.
