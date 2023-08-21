@@ -16,7 +16,7 @@ $\color{#58A6FF}{\textsf{Highlighted Paper at CVPR 2023}}$
 <br>
   
 
-<img src="/media/overview.gif">
+<img src="./media/overview.gif">
 <br>
 <br>
 The source code & pretrained models will be uploaded.
