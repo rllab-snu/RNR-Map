@@ -19,6 +19,10 @@ $\color{#58A6FF}{\textsf{Highlighted Paper at CVPR 2023}}$
 <img src="/media/overview.gif">
 <br>
 <br>
-The source code & pretrained models will be uploaded soon.
-
+The source code & pretrained models will be uploaded.
+<br>
+<br>
+For issues related to code release:
+<br>
+Please contact me through e-mail: obin.kwon@rllab.snu.ac.kr
 </p>
