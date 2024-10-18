@@ -1,0 +1,12 @@
+numpy
+matplotlib
+opencv-python
+numpy-quaternion
+tqdm
+joblib
+jupyter
+einops
+omegaconf
+imageio==2.9
+wandb
+sklearn
